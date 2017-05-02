@@ -197,7 +197,7 @@ Here the model is very sure about the predicted label of "General Caution". It d
 The image of a stop sign was passed through the neural network and the activations though first two convolutional layers were visualised. It is seen that the neural network has learned on its own to recognise the relevant information in the pictures in order to classify them. In the activation maps its seen that the neural network on its own extracts the relevant information. The signboard as a whole can be seen highlighted in some of the activations. The letters are also highlighted while as the irrelevant information like background dont get activated. The neural network wasnt explicitly told to find lines or letters
 
 
-![alt text](./examples/Sample3.png "")
+![alt text](./examples/Sample3.jpg "")
 ![alt text](./examples/Visualisation1.png "")
 ![alt text](./examples/Visualisation2.png "")
 
