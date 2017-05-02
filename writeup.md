@@ -117,11 +117,11 @@ The learning rate, batch size and number of epochs were varied and finally these
 
 ## Tests on new images found on the web
 
-![alt text](./examples/Sample1.png "")
-![alt text](./examples/Sample3.png "")
-![alt text](./examples/Sample4.png "")
-![alt text](./examples/Sample5.png "")
-![alt text](./examples/Sample6.png "")
+![alt text](./examples/sample1.png "")
+![alt text](./examples/sample3.png "")
+![alt text](./examples/sample4.png "")
+![alt text](./examples/sample5.png "")
+![alt text](./examples/sample6.png "")
 
 These are five of the images I found on the web. Some of these have writing written across them. The first one is SpeedLimit (20 km/h) sign drawn on the road. The General caution sign has red and white lines in the background which are similar to the lines on traffic signs.
 
